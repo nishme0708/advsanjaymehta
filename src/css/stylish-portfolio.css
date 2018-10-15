@@ -237,3 +237,12 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+footer p,footer ul{
+    font-size: 18px;
+}
+.displayTable{
+    display: table;
+}
+.heightFull{
+    height: 100%;
+}
